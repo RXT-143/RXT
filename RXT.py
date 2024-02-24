@@ -1,2 +1,2 @@
 import RXT 
-os.system("git pull')
+os.system("git pull")
